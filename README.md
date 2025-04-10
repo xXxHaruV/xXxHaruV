@@ -29,3 +29,64 @@ Nice to meet you!<br>
 <br>
 
 </div>
+
+## Upcoming Projects
+### Kotlin
+Minecraft Plugin: Advanced Permissions System <br>
+Multi-platform Mobile App: Task Manager <br>
+Web Scraper: Real-Time Data Fetching <br>
+
+### Java
+Minecraft Plugin: Custom Economy System <br>
+Online Multiplayer Game: Battle Arena <br>
+Task Scheduler Application <br>
+
+### C#
+2D Action Game with Unity <br>
+Windows Application: Personal Finance Tracker <br>
+ASP.NET Core Blog System <br>
+
+### Python
+Flask RESTful API: To-Do List Service <br>
+Machine Learning: Data Analysis Tool <br>
+Discord Bot: Music Bot with YouTube Support <br>
+
+### C++
+Console Maze Game <br>
+File System Emulator <br>
+Basic Game Engine <br>
+
+### JavaScript
+To-Do List Application (Vanilla JS) <br>
+Real-time Chat Application (Socket.IO) <br>
+Simple Blog System (React) <br>
+
+### Rust
+CLI Tool: File Operation Utility <br>
+Web Server: Actix-based REST API <br>
+Memory Management Simulator <br>
+
+### GoLang
+Simple HTTP Server <br>
+Image Processing with Parallel Processing <br>
+To-Do List API <br>
+
+### C
+Console-based Calendar Application <br>
+File Compression Tool <br>
+Custom Text Editor (Notepad) <br>
+
+### HTML/CSS
+Portfolio Website <br>
+Static Blog Site <br>
+Simple Web Game <br>
+
+### TypeScript
+Todo List Application (React + TypeScript) <br>
+Shopping Cart System (Node.js + TypeScript) <br>
+Real-Time Chat Application (React + TypeScript + WebSocket) <br>
+
+### Julia
+Numerical Analysis Tool <br>
+Machine Learning Model Implementation <br>
+Data Visualization Tool <br>
