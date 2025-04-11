@@ -11,7 +11,6 @@ Nice to meet you!<br>
   <img alt="Github Stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=xXxHaruV&theme=transparent&layout=compact" ><br>
   <img alt="profile details" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xXxHaruV&theme=transparent&layout=compact" ><br>
   <img alt="profile details" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xXxHaruV&theme=transparent&utcOffset=+9.00&layout=compact" >
-<\div>
 
 ## My languages
 ### Languages being learned
