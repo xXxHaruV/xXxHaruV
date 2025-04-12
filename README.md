@@ -14,8 +14,8 @@ Nice to meet you!<br>
 
 ## My languages
 ### Languages being learned
-> Java, Kotlin, C#, Python, C++, JavaScript, Rust, GoLang, C, HTML, CSS, TypeScript, Julia
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=java,kotlin,cs,python,cpp,js,rust,go,c,html,css,ts,julia" />
+> Java, Kotlin, C#, Python, C++, JavaScript, Rust, GoLang, C, HTML, CSS, TypeScript, Julia, swift, node-js, PHP, Ruby, Markdown, Dart,R
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=java,kotlin,cs,python,cpp,js,rust,go,c,html,css,ts,julia,swift,nodejs,php,ruby,md,dart,r" />
 
 ### Language Ranking
   <img alt="Top Lang" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xXxHaruV&theme=transparent&layout=compact" />
